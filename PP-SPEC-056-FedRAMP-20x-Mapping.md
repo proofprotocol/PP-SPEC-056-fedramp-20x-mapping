@@ -120,7 +120,7 @@ The fedramp.gov pages and FedRAMP GitHub repositories reviewed for this draft do
 
 The FedRAMP name and logo are restricted. The fedramp.gov disclaimers page (https://www.fedramp.gov/disclaimers) states that they are GSA property and "may not be used without GSA's express, written permission." The FedRAMP Branding Guidance (https://www.fedramp.gov/resources/documents/FedRAMP_Branding_Guidance.pdf) further restricts use of the name and logo, including any use implying government endorsement and use in company, product, service, or domain names. This specification uses the FedRAMP name only to identify the external program being referenced. It does not use the FedRAMP logo, does not claim FedRAMP Certification or authorization for any product, and does not imply government endorsement.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Where upstream material is copyrighted or access-controlled, contributors MUST NOT copy protected normative text into this repository merely to make the mapping self-contained. Reference identifiers and independently authored descriptions should be used where legally appropriate.
 
